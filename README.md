@@ -82,5 +82,5 @@ Outlier boxplot
 Scatter plot for gender-wise voter comparison
 
 📄 License
-This project is for educational purposes only.
+This project is for educational purposes only
 
