@@ -8,7 +8,7 @@ Source: Election data CSV file (python ca-2(12318165)dataset(election data).csv)
 Key columns: Men, Women, Third Gender, Total, Category
 
 🔥 Objectives Covered
-District-wise Voter Distribution
+District-wise Voter Distributio
 
 Histogram of total votes across districts.
 
